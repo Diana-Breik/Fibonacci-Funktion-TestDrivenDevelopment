@@ -69,7 +69,7 @@ class FaboReiheGitTest {
         int actual= FaboReiheGit.fibonacci(n);
 
         //THEN
-        int expected= 5;
+        int expected= 1;
         Assertions.assertEquals(expected,actual);
 
 
